@@ -24,48 +24,38 @@
       "id": 5,
       "en" : "National Day",
       "tc" : "國慶日"
-    },
-    {
-      "id": 6,
-      "en" : "Golden Melody Award",
-      "tc" : "金曲獎"
-    },
-    {
-      "id": 7,
-      "en" : "typhoon",
-      "tc" : "颱風"
     }
   ],
   "articles": [
     {
       "id": 1,
       "tilte" : "Bhutanan",
-      "content" : "“We do not believe in Gross National Product. Gross National Happiness is more important”. And so the teenage King of Bhutan famously said in 1979. Since then, Gross National Happiness has become a Bhutanese philosophy.",
+      "content" : "We do not believe in Gross National Product. Gross National Happiness is more important...",
       "slug" : "buthananc"
     },
     {
       "id": 2,
       "tilte" : "Kazakhstan",
-      "content" : "The national drink is made from fermented horse milk (not urine as Borat would have you believe!); one of Kazakhstan’s most popular dishes, Kazy, is smoked horsemeat sausage; and the country’s most popular sport, “Buzkashi”, which literally means “grabbing the dead goat”, sees players on horseback vie for control of the “ball”, which, as the name suggests, is the headless carcass of a goat.",
+      "content" : "The national drink is made from fermented horse milk (not urine as Borat would have you believe!); one of Kazakhstan’s most popular dishes, Kazy...",
       "slug" : "kazakhstan"
     },
     {
       "id": 3,
       "tilte" : "North Korea",
-      "content" : "A proudly reclusive, quasi-communist state, no list of the world’s weirdest countries would be complete without North Korea. While Beijing is the only way for Western tourists to enter the country, once inside, it’s surprisingly safe, provided you toe the government’s line. You’ll be accompanied everywhere by two state-employed guides, and hear a somewhat questionable account of North Korea’s history. You’ll be under constant surveillance during your stay, and probably only see what the government wants you to see. Unsettling, yes, but it is a small preview of what life is like in the world’s most tightly controlled nation. Visas to North Korea are issued in Beijing, so this is where you should shop around for tours. Koryo Tours has been touring North Korea for 20 years, while Young Pioneer Tours is the go-to group for younger travellers.",
+      "content" : "A proudly reclusive, quasi-communist state, no list of the world’s weirdest countries would be complete without North Korea...",
       "slug" : "north-korea"
     },
     {
       "id": 4,
       "tilte" : "Belarusv",
-      "content" : "After the fall of the Soviet Union, a cluster of countries in Eastern Europe pushed to join the EU. Enticed by grand promises from the continent’s big players, Belarus’s neighbours quickly signed up. But Belarus, nestled between Russia and Poland, bucked the trend and opted for isolation and reclusiveness, essentially turning its back on a united Europe. Off the radar of most travellers, a trip to Belarus offers a much-needed respite from the crowds of Europe’s more popular cities. Its capital, Minsk, has been burned down 18 times.",
+      "content" : "After the fall of the Soviet Union, a cluster of countries in Eastern Europe pushed to join the EU. Enticed by grand promises from the continent’s big players...",
       "slug" : "belarusv"
     },
     {
       "id": 5,
-      "tilte" : "Bhutanan",
-      "content" : "“We do not believe in Gross National Product. Gross National Happiness is more important”. And so the teenage King of Bhutan famously said in 1979. Since then, Gross National Happiness has become a Bhutanese philosophy.",
-      "slug" : "buthanan"
+      "tilte" : "Epidemic",
+      "content" : "全球新冠肺炎持續流行，待疫苗問世。目前國際上進入臨床試驗第三期新冠疫苗包括德國BioNTech（BNT）與美國輝瑞（Pfizer）合作發展的疫苗、阿斯特捷利康（AZ）與英國牛津大學合作的疫苗...",
+      "slug" : "epidemic"
     }
   ],
   "categorys": [
@@ -98,12 +88,6 @@
       "name" : "生活",
       "status" : "Y",
       "update_date" : "2019-08-05 13:19:47"
-    },
-    {
-      "id": 6,
-      "name" : "影音",
-      "status" : "Y",
-      "update_date" : "2019-08-05 13:19:49"
     }
   ],
   "titles" :[
@@ -146,150 +130,6 @@
       "name" : "C羅全程坐板凳！韓粉絲氣炸",
       "text" : "主辦回應後球隊只說「C羅不想上場」，事後又說他肌肉不適...",
       "update_date" : "2019-08-01 18:28:46"
-    },
-    {
-      "id": 6,
-      "date" : "2019-07-30",
-      "category_id" : 2,
-      "name" : "幹籃哥好悶「今夏招募全失敗」",
-      "text" : "有次剛聯繫完，馬上看到對方要跟別人簽約，......",
-      "update_date" : "2019-08-01 18:28:46"
-    },
-    {
-      "id": 7,
-      "date" : "2019-07-30",
-      "category_id" : 2,
-      "name" : "CBA落選 新竹球王宣布退役",
-      "text" : "「一路走來想看我笑話的人一直比較多，可能我個性上特立獨行…",
-      "update_date" : "2019-08-02 17:31:14"
-    },
-    {
-      "id": 8,
-      "date" : "2019-07-30",
-      "category_id" : 3,
-      "name" : "拍片慘賠上億！吳克群找出路",
-      "text" : "砸2億多來一圓導演夢，結果只賣5700萬，...",
-      "update_date" : "2019-08-01 18:29:15"
-    },
-    {
-      "id": 9,
-      "date" : "2019-07-30",
-      "category_id" : 3,
-      "name" : "黃荷娜出獄 曬血照嚇壞網友",
-      "text" : "日前結束3個月拘留，爸爸突然po出她手臂流血的照片",
-      "update_date" : "2019-08-01 18:29:15"
-    },
-    {
-      "id": 10,
-      "date" : "2019-07-30",
-      "category_id" : 3,
-      "name" : "屢傳婚變 黃曉明對妻暱稱改口",
-      "text" : "過去通常是以「Baby」來稱呼她，最近在被問到...",
-      "update_date" : "2019-08-01 18:29:15"
-    },
-    {
-      "id": 11,
-      "date" : "2019-07-30",
-      "category_id" : 3,
-      "name" : "經典廣告紅20年 黑人近況曝",
-      "text" : "把維大力說成「義大利」，來自非洲的他當年和蔡振南...",
-      "update_date" : "2019-08-01 18:29:15"
-    },
-    {
-      "id": 12,
-      "date" : "2019-07-30",
-      "category_id" : 4,
-      "name" : "妹私密1件超長？網虧：沒女友",
-      "text" : "很奇怪，到底幾CUP？中間連一條超長的帶子，解答這是「前扣式...",
-      "update_date" : "2019-08-01 18:29:36"
-    },
-    {
-      "id": 13,
-      "date" : "2019-07-30",
-      "category_id" : 4,
-      "name" : "哥帶女進房間 她翻出1物臉綠",
-      "text" : "察覺有人來過，先檢查垃圾桶，第2次滿地都是衛生紙和黃金鼠的排...",
-      "update_date" : "2019-08-01 18:29:36"
-    },
-    {
-      "id": 14,
-      "date" : "2019-07-30",
-      "category_id" : 4,
-      "name" : "偷買太多被抓包 曝家世GG了",
-      "text" : "[小遊戲]很多人都來問，不知道對方是誰，沒法解釋下場慘了",
-      "update_date" : "2019-08-01 18:29:36"
-    },
-    {
-      "id": 15,
-      "date" : "2019-07-30",
-      "category_id" : 4,
-      "name" : "舊貨店挖1物 專家：值620萬",
-      "text" : "很老舊，買回家卻起了懷疑，求助傳照片太糊，重寄被邀請親自帶去",
-      "update_date" : "2019-08-01 18:29:36"
-    },
-    {
-      "id": 16,
-      "date" : "2019-07-30",
-      "category_id" : 5,
-      "name" : "iPhone偷錄床事？官方回應了",
-      "text" : "震驚！私密對話Siri竟然全都錄下內容更傳至承包商蘋果",
-      "update_date" : "2019-08-01 18:30:00"
-    },
-    {
-      "id": 17,
-      "date" : "2019-07-30",
-      "category_id" : 5,
-      "name" : "不給老外看 台人竟嫌「國恥」",
-      "text" : "嫌真面目落後？太在意外國人評價避開了老舊公寓和鐵窗",
-      "update_date" : "2019-08-01 18:30:00"
-    },
-    {
-      "id": 18,
-      "date" : "2019-07-30",
-      "category_id" : 5,
-      "name" : "第一前兆…罹癌3個月走了",
-      "text" : "長庚醫生公開罹癌三階段：血糖升高膽固醇卻下降最後異常瘦...",
-      "update_date" : "2019-08-01 18:30:00"
-    },
-    {
-      "id": 19,
-      "date" : "2019-07-30",
-      "category_id" : 5,
-      "name" : "夫亡4年產女 甄妮揭25年真相",
-      "text" : "尪29歲車禍喪命，單身36年未改嫁等女兒25歲後透露冷凍...",
-      "update_date" : "2019-08-01 18:30:00"
-    },
-    {
-      "id": 20,
-      "date" : "2019-07-30",
-      "category_id" : 6,
-      "name" : "熊熊友誼越線？曾國城竟早知",
-      "text" : "藏不住，字體一樣抓包，曝光兩人曖昧起鬨，張立東...",
-      "update_date" : "2019-08-01 18:30:23"
-    },
-    {
-      "id": 21,
-      "date" : "2019-07-30",
-      "category_id" : 6,
-      "name" : "OL遇惡鄰 回房見一幕命沒了",
-      "text" : "電梯故障走8樓，竟被鄰居盯上，跟到門口發現遇到靈異...",
-      "update_date" : "2019-08-01 18:30:23"
-    },
-    {
-      "id": 22,
-      "date" : "2019-07-30",
-      "category_id" : 6,
-      "name" : "台人童年1顆升級 咬下變臉吐",
-      "text" : "重達一公斤，台灣人從小吃到大，網友咬下變臉痛苦吃完...",
-      "update_date" : "2019-08-01 18:30:23"
-    },
-    {
-      "id": 23,
-      "date" : "2019-07-30",
-      "category_id" : 6,
-      "name" : "搜1張甩男友 放大亮點後悔了",
-      "text" : "看好久，發現照片一角才發覺到：多年男友因為拍照畫面...",
-      "update_date" : "2019-08-01 18:30:23"
     }
   ],
   "sports": [
@@ -316,6 +156,12 @@
       "code" : 8,
       "name" : "壁球",
       "update_date" : "2019-10-12 19:49:24"
+    },
+    {
+      "id": 5,
+      "code" : 10,
+      "name" : "足球",
+      "update_date" : "2019-10-12 19:52:32"
     }
   ]
 }

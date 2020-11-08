@@ -29,31 +29,31 @@
   "articles": [
     {
       "id": 1,
-      "tilte" : "Bhutanan",
+      "title" : "Bhutanan",
       "content" : "We do not believe in Gross National Product. Gross National Happiness is more important...",
       "slug" : "buthananc"
     },
     {
       "id": 2,
-      "tilte" : "Kazakhstan",
+      "title" : "Kazakhstan",
       "content" : "The national drink is made from fermented horse milk (not urine as Borat would have you believe!); one of Kazakhstan’s most popular dishes, Kazy...",
       "slug" : "kazakhstan"
     },
     {
       "id": 3,
-      "tilte" : "North Korea",
+      "title" : "North Korea",
       "content" : "A proudly reclusive, quasi-communist state, no list of the world’s weirdest countries would be complete without North Korea...",
       "slug" : "north-korea"
     },
     {
       "id": 4,
-      "tilte" : "Belarusv",
+      "title" : "Belarusv",
       "content" : "After the fall of the Soviet Union, a cluster of countries in Eastern Europe pushed to join the EU. Enticed by grand promises from the continent’s big players...",
       "slug" : "belarusv"
     },
     {
       "id": 5,
-      "tilte" : "Epidemic",
+      "title" : "Epidemic",
       "content" : "全球新冠肺炎持續流行，待疫苗問世。目前國際上進入臨床試驗第三期新冠疫苗包括德國BioNTech（BNT）與美國輝瑞（Pfizer）合作發展的疫苗、阿斯特捷利康（AZ）與英國牛津大學合作的疫苗...",
       "slug" : "epidemic"
     }
